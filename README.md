@@ -1,4 +1,3 @@
-# action-repo
 
 A normal GitHub repository used to **trigger** webhooks (Push, Pull Request, Merge). Configure this repo to send webhooks to your **webhook-repo** Flask server.
 
